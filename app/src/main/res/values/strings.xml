@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Музыка</string>
+    <string name="search">Поиск</string>
+    <string name="use_search">Воспользуйтесь поиском</string>
+    <string name="no_search">Ничего не найдено</string>
+    <string name="no_internet">Нет интернета</string>
+</resources>
